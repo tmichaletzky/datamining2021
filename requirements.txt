@@ -1,0 +1,13 @@
+jupyter
+pandas
+numpy
+scikit-learn
+seaborn
+plotly
+matplotlib
+nltk
+contractions
+emoji
+wordcloud
+tensorflow
+transformers
