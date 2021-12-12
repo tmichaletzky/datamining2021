@@ -11,3 +11,4 @@ emoji
 wordcloud
 tensorflow
 transformers
+pytorch
