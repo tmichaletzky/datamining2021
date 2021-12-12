@@ -22,6 +22,7 @@ NLP:
 - `from gensim.models.word2vec import Word2Vec`
 - `from gensim.models.doc2vec import Doc2Vec`
 - `from transformers import BertModel, BertForSequenceClassification`
+- GloVe: http://nlp.stanford.edu/data/glove.6B.zip
 
 Neural Models:
 - Tensorflow, Keras
@@ -29,3 +30,4 @@ Neural Models:
 
 Források:
 - https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset
+- http://nlp.stanford.edu/data/glove.6B.zip
